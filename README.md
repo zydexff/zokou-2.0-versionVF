@@ -1,4 +1,4 @@
-<p align="center"><h1>Zokou-2.0 🚀</h1><br> </p>
+<p align="center"><h1>ZX-2.0 🚀</h1><br> </p>
 
 ![banner](Zokou.jpg)
 
@@ -16,11 +16,11 @@ Zokou est un bot multi-devices conçu pour enrichir vos conversations WhatsApp a
 
 ## Fonctionnalités Ludiques 🎉
 
-- **Blagues et Devinettes :** Zokou est équipé d'une collection de blagues et de devinettes pour égayer vos conversations. 😂🤔
+- **Blagues et Devinettes :** ZX est équipé d'une collection de blagues et de devinettes pour égayer vos conversations. 😂🤔
 
 - **Citations Inspirantes :** Recevez des citations inspirantes pour vous motiver au quotidien. 💪🌟
 
-## Obtenir Zokou 🛠️
+## Obtenir ZX 🛠️
 
 1. Cliquez sur **[Fork](https://github.com/Luffy2ndAccount/zokou-2.0-versionVF/fork)** afin de copier le repo sur votre compte GitHub. N'oubliez pas d'ajouter une étoile 🌟 pour encourager les développeurs !
 
